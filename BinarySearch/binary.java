@@ -43,7 +43,7 @@ public class binary{
 
 	}
 
-	public static int binarysearch(int[] arr,int target){
+	public static int binaryxsearch(int[] arr,int target){
 
 		int left=0;
 
